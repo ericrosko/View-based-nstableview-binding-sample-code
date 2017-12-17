@@ -1,6 +1,6 @@
 #Binding a View-Based NSTableview to NSArrayController in Swift 4
 
-This is the sample code for my youtube video located at  https://youtu.be/8LTz1hprMNE.
+This is the sample code for my youtube video located at  https://youtu.be/8LTz1hprMNE.  This video demonstrates how to set up an NSArrayController with your NSTableView.  This is only for a Cocoa (Mac app), and uses Xcode 9.2 and Swift 4.
 
 You can follow me at:
 https://twitter.com/ericrosko
